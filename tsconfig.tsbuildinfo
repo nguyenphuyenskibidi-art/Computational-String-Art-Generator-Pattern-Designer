@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/types.ts","./src/components/ControlGroup.tsx","./src/components/InfoPanel.tsx","./src/components/UploadPanel.tsx","./src/utils/export.ts","./src/utils/image.ts","./src/utils/material.ts","./src/utils/path.ts","./src/utils/peg.ts","./src/workers/patternWorker.ts"],"version":"5.9.3"}
